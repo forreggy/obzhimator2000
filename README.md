@@ -1,8 +1,8 @@
 **English** | [Русский](README.ru.md)
 
 <p align="center">
-  <img src="docs/gui-en.png" width="46%" alt="Obzhimator-2000 GUI (English)">
-  <img src="docs/console.png" width="92%" alt="Console edition">
+  <img src="docs/gui-en.png" width="90%" alt="Obzhimator-2000 GUI (English)">
+  <img src="docs/console.png" width="90%" alt="Console edition">
 </p>
 
 ```text
