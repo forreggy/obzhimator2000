@@ -12,6 +12,10 @@ OBZHIMATOR-2000 // PORTABLE VIDEO COMPRESSOR // HEVC EDITION
 POWERED BY FFMPEG // ZERO BLOATWARE // MAXIMUM COMPRESSION
 ════════════════════════════════════════════════════════════════════════════
 
+This is not a new encoder but a convenient wrapper around ffmpeg: preset
+selection, hardware autodetect and batch processing. FFmpeg does all the
+heavy lifting.
+
 [0x01] WHAT IS THIS BEAST?
 --------------------------
 Stop feeding bloated GUI combines with telemetry, subscriptions and
