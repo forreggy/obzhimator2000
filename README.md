@@ -1,5 +1,11 @@
 **English** | [Русский](README.ru.md)
 
+<p align="center">
+  <img src="docs/gui-en.png" width="46%" alt="Obzhimator-2000 GUI (English)">
+  <img src="docs/gui-ru.png" width="46%" alt="Обжиматор-2000, интерфейс (русский)">
+  <img src="docs/console.png" width="92%" alt="Console edition">
+</p>
+
 ```text
 ════════════════════════════════════════════════════════════════════════════
   ___  ____ ______   _ ___ __  __    _  _____ ___  ____
